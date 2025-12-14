@@ -1,0 +1,17 @@
+.env
+__pycache__/
+data/
+models/
+vector_db/
+.venv/
+venv/
+.idea/
+.vscode/
+**/__pycache__/
+**/venv/
+**/.venv/
+**/data/
+**/models/
+**/vector_db/
+**/test_dependencies.py
+

@@ -1,0 +1,21 @@
+numpy
+pandas
+
+# Document ingestion
+pypdf
+python-docx
+openpyxl
+pdf2image
+
+# OCR
+pytesseract
+
+# Text processing
+nltk
+
+# Embeddings & LLM (Local)
+llama-cpp-python
+sentence-transformers
+
+# Vector DB
+chromadb
