@@ -50,7 +50,7 @@ A powerful Retrieval Augmented Generation (RAG) application designed to ingest d
     *   Create a `data` directory.
     *   Create a `raw` directory inside `data`.
     *   Put your documents in `data/raw`.
-    *   Now execute `python src/indexing/indexing.py` to index your documents.
+    *   Now execute `python src/indexing/indexer.py` to index your documents.
     
 ## Configuration
 
